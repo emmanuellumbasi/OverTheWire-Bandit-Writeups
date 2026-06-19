@@ -1,6 +1,16 @@
 # OverTheWire-Bandit-Writeups
 
-### :open_book: Introduction
+### :clipboard: Table of Contents
+
+- [OverTheWire-Bandit-Writeups](#overthewire-bandit-writeups)
+    - [:clipboard: Table of Contents](#clipboard-table-of-contents)
+  - [:open\_book: Introduction](#open_book-introduction)
+  - [:triangular\_flag\_on\_post: Bandit Level 00 - 01](#triangular_flag_on_post-bandit-level-00---01)
+    - [Problem Description:](#problem-description)
+    - [Explanation:](#explanation)
+    - [Solution:](#solution)
+  - [:triangular\_flag\_on\_post: Bandit Level 00 - 02](#triangular_flag_on_post-bandit-level-00---02)
+## :open_book: Introduction
 
 
 
@@ -35,3 +45,6 @@ bandit0@bandit:~$ cat readme
 ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
  ```
 > Password: **ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If**
+
+
+## :triangular_flag_on_post: Bandit Level 00 - 02
